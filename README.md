@@ -1,4 +1,4 @@
-# ScisciJP 2024 Tutorial
+# Science of science Tutorial
 
 We will be hosting a tutorial on Scisci papers and code as a pre-event for the [Science of Science Research Workshop](https://sciscijp.github.io/scisciconfJP2024/) on March 17, 2024.
 
